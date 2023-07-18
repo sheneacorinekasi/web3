@@ -3,3 +3,4 @@ module.exports = {
 images: {
     domains: [
 'dl.airtable.com',
+ 'avatars.githubusercontent.com',
