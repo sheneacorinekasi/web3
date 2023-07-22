@@ -10,3 +10,5 @@ images: {
  ],
   },
   async redirects() {
+  return [
+      {
