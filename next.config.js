@@ -13,3 +13,5 @@ images: {
   return [
       {
     source: '/engineering-jobs',
+ destination: '/jobs/t/engineering',
+        permanent: true,
