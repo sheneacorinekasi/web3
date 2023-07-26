@@ -17,3 +17,5 @@ images: {
         permanent: true,
       },
       {
+source: '/product-jobs',
+        destination: '/jobs/t/product',
