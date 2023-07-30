@@ -27,3 +27,4 @@ source: '/product-jobs',
    permanent: true,
       },
       {
+   source: '/marketing-jobs',
