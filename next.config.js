@@ -28,3 +28,6 @@ source: '/product-jobs',
       },
       {
    source: '/marketing-jobs',
+      destination: '/jobs/t/marketing',
+        permanent: true,
+      },
