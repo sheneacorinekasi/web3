@@ -31,3 +31,5 @@ source: '/product-jobs',
       destination: '/jobs/t/marketing',
         permanent: true,
       },
+{
+        source: '/people-jobs',
