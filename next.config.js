@@ -38,3 +38,6 @@ source: '/product-jobs',
       },
 {
         source: '/operations-jobs',
+destination: '/jobs/t/operations',
+        permanent: true,
+      },
