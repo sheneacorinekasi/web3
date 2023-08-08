@@ -44,3 +44,6 @@ destination: '/jobs/t/operations',
   {
         source: '/non-tech-jobs',
 destination: '/jobs/t/non-tech',
+  permanent: true,
+      },
+      {
