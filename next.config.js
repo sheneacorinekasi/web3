@@ -50,3 +50,6 @@ destination: '/jobs/t/non-tech',
  source: '/remote-web3-jobs',
 destination: '/jobs/t/remote',
         permanent: true,
+   },
+    ]
+  },
