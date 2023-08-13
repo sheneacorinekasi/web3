@@ -53,3 +53,4 @@ destination: '/jobs/t/remote',
    },
     ]
   },
+  webpack(config) {
