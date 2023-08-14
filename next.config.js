@@ -54,3 +54,4 @@ destination: '/jobs/t/remote',
     ]
   },
   webpack(config) {
+  config.module.rules.push({
