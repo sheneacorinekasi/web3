@@ -55,3 +55,4 @@ destination: '/jobs/t/remote',
   },
   webpack(config) {
   config.module.rules.push({
+  test: /\.svg$/,
