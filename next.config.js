@@ -61,3 +61,4 @@ destination: '/jobs/t/remote',
 
     return config
   }
+}
