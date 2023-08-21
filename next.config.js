@@ -44,21 +44,4 @@ destination: '/jobs/t/operations',
   {
         source: '/non-tech-jobs',
 destination: '/jobs/t/non-tech',
-  permanent: true,
-      },
-      {
- source: '/remote-web3-jobs',
-destination: '/jobs/t/remote',
-        permanent: true,
-   },
-    ]
-  },
-  webpack(config) {
-  config.module.rules.push({
-  test: /\.svg$/,
-  use: ["@svgr/webpack"]
-    })
 
-    return config
-  }
-}
