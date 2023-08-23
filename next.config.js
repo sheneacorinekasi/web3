@@ -46,3 +46,5 @@ destination: '/jobs/t/operations',
 destination: '/jobs/t/non-tech',
  permanent: true,
       },
+  {
+        source: '/remote-web3-jobs',
