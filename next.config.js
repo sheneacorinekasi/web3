@@ -51,3 +51,6 @@ destination: '/jobs/t/non-tech',
   destination: '/jobs/t/remote',
         permanent: true,
       },
+ ]
+  },
+  webpack(config) {
