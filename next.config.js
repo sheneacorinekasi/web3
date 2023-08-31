@@ -56,3 +56,5 @@ destination: '/jobs/t/non-tech',
   webpack(config) {
   config.module.rules.push({
  test: /\.svg$/,
+ use: ["@svgr/webpack"]
+    })
