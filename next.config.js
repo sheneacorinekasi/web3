@@ -58,3 +58,7 @@ destination: '/jobs/t/non-tech',
  test: /\.svg$/,
  use: ["@svgr/webpack"]
     })
+
+    return config
+  }
+}
