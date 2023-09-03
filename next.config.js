@@ -12,3 +12,4 @@ images: {
   async redirects() {
   return [
       {
+   source: '/engineering-jobs',
