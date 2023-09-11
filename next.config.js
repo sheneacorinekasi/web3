@@ -15,3 +15,6 @@ images: {
    source: '/engineering-jobs',
  destination: '/jobs/t/engineering',
         permanent: true,
+  },
+      {
+        source: '/product-jobs',
