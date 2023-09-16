@@ -26,3 +26,6 @@ destination: '/jobs/t/product',
  destination: '/jobs/t/sales',
   permanent: true,
       },
+    {
+        source: '/product-jobs',
+        destination: '/jobs/t/product',
