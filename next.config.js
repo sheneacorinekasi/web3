@@ -34,3 +34,6 @@ destination: '/jobs/t/product',
       {
         source: '/sales-jobs',
         destination: '/jobs/t/sales',
+  permanent: true,
+      },
+      {
