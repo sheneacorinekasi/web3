@@ -37,3 +37,5 @@ destination: '/jobs/t/product',
   permanent: true,
       },
       {
+  source: '/marketing-jobs',
+        destination: '/jobs/t/marketing',
