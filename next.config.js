@@ -44,3 +44,7 @@ permanent: true,
       {
         source: '/people-jobs',
         destination: '/jobs/t/people',
+permanent: true,
+      },
+      {
+        source: '/operations-jobs',
