@@ -48,3 +48,4 @@ permanent: true,
       },
       {
         source: '/operations-jobs',
+ destination: '/jobs/t/operations',
