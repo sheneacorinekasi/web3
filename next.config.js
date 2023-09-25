@@ -49,3 +49,7 @@ permanent: true,
       {
         source: '/operations-jobs',
  destination: '/jobs/t/operations',
+   permanent: true,
+      },
+      {
+        source: '/non-tech-jobs',
