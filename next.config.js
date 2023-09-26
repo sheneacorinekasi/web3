@@ -53,3 +53,4 @@ permanent: true,
       },
       {
         source: '/non-tech-jobs',
+   destination: '/jobs/t/non-tech',
