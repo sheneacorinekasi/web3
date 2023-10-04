@@ -8,3 +8,8 @@ images: {
 'www.datocms-assets.com',
       'acegif.com'
  ],
+  },
+  async redirects() {
+    return [
+      {
+        source: '/engineering-jobs',
