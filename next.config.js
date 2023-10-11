@@ -27,3 +27,4 @@ images: {
       },
       {
         source: '/marketing-jobs',
+ destination: '/jobs/t/marketing',
