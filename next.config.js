@@ -32,3 +32,4 @@ images: {
       },
       {
         source: '/people-jobs',
+  destination: '/jobs/t/people',
