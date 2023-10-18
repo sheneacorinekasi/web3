@@ -47,3 +47,4 @@ permanent: true,
       },
       {
         source: '/remote-web3-jobs',
+ destination: '/jobs/t/remote',
