@@ -57,3 +57,5 @@ permanent: true,
  test: /\.svg$/,
   use: ["@svgr/webpack"]
     })
+
+    return config
