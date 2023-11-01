@@ -23,3 +23,4 @@ images: {
       },
       {
         source: '/sales-jobs',
+  destination: '/jobs/t/sales',
