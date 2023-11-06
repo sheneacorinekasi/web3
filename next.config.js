@@ -35,3 +35,6 @@ images: {
         source: '/people-jobs',
   destination: '/jobs/t/people',
         permanent: true,
+ },
+      {
+        source: '/operations-jobs',
