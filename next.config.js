@@ -38,3 +38,4 @@ images: {
  },
       {
         source: '/operations-jobs',
+ destination: '/jobs/t/operations',
