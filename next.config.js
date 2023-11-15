@@ -6,3 +6,7 @@ images: {
  'avatars.githubusercontent.com',
  'camo.githubusercontent.com',
  'www.datocms-assets.com',
+  'acegif.com'
+    ],
+  },
+  async redirects() {
