@@ -44,3 +44,7 @@ images: {
       {
         source: '/non-tech-jobs',
  destination: '/jobs/t/non-tech',
+   permanent: true,
+      },
+      {
+        source: '/remote-web3-jobs',
