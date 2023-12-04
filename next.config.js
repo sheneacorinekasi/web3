@@ -54,3 +54,4 @@ images: {
     ]
   },
   webpack(config) {
+  config.module.rules.push({
