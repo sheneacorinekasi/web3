@@ -60,3 +60,5 @@ images: {
 })
 
     return config
+ }
+}
